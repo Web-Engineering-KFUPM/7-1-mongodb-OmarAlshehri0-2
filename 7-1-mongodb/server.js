@@ -13,7 +13,7 @@
  * - 1.1: SignUp on mongoDB cloud at https://cloud.mongodb.com/
  * - 1.2: create project and click on Build Cluster
  *   Note: Take a single screen shot of the Todo 1.3 to 1.7 and save it in Mongo-Screen-shots/TODO-1
- * - 1.3: choose free plan to create cluster
+ * - 1.3: choose free plan to create cluster ls
  * - 1.4: Name the cluster cluster0
  * - 1.5: choose AWS as provider
  * - 1.6: choose region Bahrain
